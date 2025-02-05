@@ -16,7 +16,7 @@ const DrawingComparison = () => {
         {/* Description */}
         <p className="text-neutral-600 text-base md:text-lg max-w-3xl mx-auto mb-6">
           This section allows you to compare your drawings, track progress, and explore various
-          drawing techniques. It’s perfect for artists looking to improve their skills and
+          drawing techniques. It’s perfect for an artists looking to improve their skills and
           benchmark their work.
         </p>
   
