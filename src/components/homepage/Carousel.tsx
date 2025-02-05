@@ -1,6 +1,5 @@
 "use client";
 import { Carousel, Card } from "../../components/homepage/ui/apple-cards-carousel";
-import img from "../../assets/images/homepage/img1.jpg";
 import forklift from "../../assets/images/homepage/forklift.jpg";
 import Dwg from "../../assets/images/homepage/Dwg.jpg"
 import Motherson_Translate from "../../assets/images/homepage/Motherson_Translate.jpg"
